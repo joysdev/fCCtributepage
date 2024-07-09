@@ -1,7 +1,21 @@
-#image {
+#title {
+    text-align: center;
+  }
+  
+  #image {
     display: block;
     max-width: 100%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
+  }
+  
+  #img-caption {
+    font-size: .74em;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  h3 {
+    text-align: center;
   }
